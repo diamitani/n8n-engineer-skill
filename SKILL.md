@@ -1,6 +1,7 @@
 ---
 name: n8n-engineer
-description: Use when the user wants to build, debug, scale, or architect n8n workflows, AI agents, MCP server/client setups, HTTP/API integrations, community nodes, or GTM automations. Covers official n8n patterns for instance-level MCP, MCP Server Trigger, MCP Client Tool, Call n8n Workflow Tool, HTTP Request, evaluations, error handling, and production rollout.
+description: >
+  Use when the user wants to build, debug, scale, or architect n8n workflows, AI agents, MCP server/client setups, HTTP/API integrations, community nodes, or GTM automations. Covers official n8n patterns for instance-level MCP, MCP Server Trigger, MCP Client Tool, Call n8n Workflow Tool, HTTP Request, evaluations, error handling, and production rollout.
 ---
 
 # n8n Engineer
